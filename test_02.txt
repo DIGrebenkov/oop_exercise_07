@@ -1,0 +1,85 @@
+0. Show menu.    
+1. New document. 
+2. Add figure.   
+3. Delete figure.
+4. Print list.   
+5. Save document.
+6. Load document.
+7. Undo.
+8. Quit program. 
+Enter option: 2  
+Enter position: 0
+1. Trapezoid.
+2. Rhombus.
+3. Pentagon.
+Enter type of the figure: 2
+Enter coordinates of left and bottom vertices: 
+3 3 3 3
+Enter option: 2
+Enter position: -1
+ERROR: incorrect index.
+Enter option: 2
+Enter position: 7
+ERROR: incorrect index.
+Enter option: 3
+Enter position: -1
+ERROR: incorrect index.
+Enter option: 3
+Enter position: 5
+ERROR: incorrect index.
+Enter option: 4
+(3, 3)(3, 3)(3, 3)(3, 3)
+Enter option: 7
+Enter option: 4
+  List is empty.
+Enter option: 7
+  No actions to undo.
+Enter option: 2
+Enter position: 0
+1. Trapezoid.
+2. Rhombus.
+3. Pentagon.
+Enter type of the figure: 4
+ERROR: incorrect index.
+Enter option: 4
+  List is empty.
+Enter option: 2
+Enter position: 0
+1. Trapezoid.
+2. Rhombus.
+3. Pentagon.
+Enter type of the figure: 2
+Enter coordinates of left and bottom vertices: 
+4 4 4 4
+Enter option: 5
+Enter name of file: v.bin
+Enter option: 4
+(4, 4)(4, 4)(4, 4)(4, 4)
+Enter option: 1
+Enter option: 4
+  List is empty.
+Enter option: 7
+  No actions to undo.
+Enter option: 6
+Enter name of file: v.bin
+Enter option: 4
+(4, 4)(4, 4)(4, 4)(4, 4)
+Enter option: 7
+  No actions to undo.
+Enter option: 3
+Enter position: 1
+ERROR: incorrect index.
+Enter option: 3
+Enter position: 0
+Enter option: 4
+  List is empty.
+Enter option: 7
+Enter option: 4
+(4, 4)(4, 4)(4, 4)(4, 4)
+Enter option: 6
+Enter name of file: v.bin
+Enter option: 4
+(4, 4)(4, 4)(4, 4)(4, 4)
+Enter option: 4
+(4, 4)(4, 4)(4, 4)(4, 4)
+Enter option: 8

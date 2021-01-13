@@ -1,0 +1,123 @@
+0. Show menu.    
+1. New document. 
+2. Add figure.   
+3. Delete figure.
+4. Print list.   
+5. Save document.
+6. Load document.
+7. Undo.
+8. Quit program. 
+Enter option: 2  
+Enter position: 0
+1. Trapezoid.
+2. Rhombus.
+3. Pentagon.
+Enter type of the figure: 2
+Enter coordinates of left and bottom vertices: 
+0 1 1 0
+Enter option: 4
+(0, 1)(1, 0)(2, 1)(1, 2)
+Enter option: 2
+Enter position: 1
+1. Trapezoid.
+2. Rhombus.
+3. Pentagon.
+Enter type of the figure: 1
+Enter coordinates of left-top, left-bottom and right-bottom vertices: 
+1 2 0 0 4 0
+Enter option: 4
+(0, 1)(1, 0)(2, 1)(1, 2)
+(1, 2)(0, 0)(4, 0)(3, 2)
+Enter option: 2
+Enter position: 1
+1. Trapezoid.
+2. Rhombus.
+3. Pentagon.
+Enter type of the figure: 3
+Enter coordinates of center and radius: 
+1 1 1
+Enter option: 4
+(0, 1)(1, 0)(2, 1)(1, 2)
+(0.0489438, 1.30902)(1, 2)(1.95106, 1.30902)(1.58778, 0.190983)(0.412215, 0.190983)
+(1, 2)(0, 0)(4, 0)(3, 2)
+Enter option: 7
+Enter option: 4
+(0, 1)(1, 0)(2, 1)(1, 2)
+(1, 2)(0, 0)(4, 0)(3, 2)
+Enter option: 2
+Enter position: 2
+1. Trapezoid.
+2. Rhombus.
+3. Pentagon.
+Enter type of the figure: 3
+Enter coordinates of center and radius:
+2 2 1
+Enter option: 4
+(0, 1)(1, 0)(2, 1)(1, 2)
+(1, 2)(0, 0)(4, 0)(3, 2)
+(1.04894, 2.30902)(2, 3)(2.95106, 2.30902)(2.58778, 1.19098)(1.41222, 1.19098)
+Enter option: 2
+Enter position: 3
+1. Trapezoid.
+2. Rhombus.
+3. Pentagon.
+Enter type of the figure: 2
+Enter coordinates of left and bottom vertices:
+0 1 2 0
+Enter option: 4
+(0, 1)(1, 0)(2, 1)(1, 2)
+(1, 2)(0, 0)(4, 0)(3, 2)
+(1.04894, 2.30902)(2, 3)(2.95106, 2.30902)(2.58778, 1.19098)(1.41222, 1.19098)
+(0, 1)(2, 0)(4, 1)(2, 2)
+Enter option: 3
+Enter position: 2
+Enter option: 4
+(0, 1)(1, 0)(2, 1)(1, 2)
+(1, 2)(0, 0)(4, 0)(3, 2)
+(0, 1)(2, 0)(4, 1)(2, 2)
+Enter option: 5
+Enter name of file: v.bin
+Enter option: 4
+(0, 1)(1, 0)(2, 1)(1, 2)
+(1, 2)(0, 0)(4, 0)(3, 2)
+(0, 1)(2, 0)(4, 1)(2, 2)
+Enter option: 7
+Enter option: 4
+(0, 1)(1, 0)(2, 1)(1, 2)
+(1, 2)(0, 0)(4, 0)(3, 2)
+(1.04894, 2.30902)(2, 3)(2.95106, 2.30902)(2.58778, 1.19098)(1.41222, 1.19098)
+(0, 1)(2, 0)(4, 1)(2, 2)
+Enter option: 7
+Enter option: 4
+(0, 1)(1, 0)(2, 1)(1, 2)
+(1, 2)(0, 0)(4, 0)(3, 2)
+(1.04894, 2.30902)(2, 3)(2.95106, 2.30902)(2.58778, 1.19098)(1.41222, 1.19098)
+Enter option: 7
+Enter option: 7
+Enter option: 7
+Enter option: 7
+  No actions to undo.
+Enter option: 4
+  List is empty.
+Enter option: 6
+Enter name of file: v.bin
+Enter option: 4
+(0, 1)(1, 0)(2, 1)(1, 2)
+(1, 2)(0, 0)(4, 0)(3, 2)
+(0, 1)(2, 0)(4, 1)(2, 2)
+Enter option: 7
+  No actions to undo.
+Enter option: 1
+Enter option: 4
+  List is empty.
+Enter option: 0
+0. Show menu.
+1. New document.
+2. Add figure.
+3. Delete figure.
+4. Print list.
+5. Save document.
+6. Load document.
+7. Undo.
+8. Quit program.
+Enter option: 8
